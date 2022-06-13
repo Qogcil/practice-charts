@@ -1,4 +1,6 @@
 [
+  "[{\"id\":13,\"message\":\"invitee created\"},{\"id\":2,\"event\":\"searching platform\",\"reason\":\"metadata does not exist\"},{\"id\":6,\"message\":\"participant found by search\"},{\"id\":16,\"message\":\"person found\"}]",
+  "[{\"id\":13,\"message\":\"invitee created\"},{\"id\":1,\"event\":\"accessing platform\",\"reason\":\"metadata exists\"},{\"id\":4,\"message\":\"participant found by metadata\"},{\"id\":16,\"message\":\"person found\"}]",
   "[{\"id\":13,\"message\":\"invitee created\"},{\"id\":1,\"event\":\"accessing platform\",\"reason\":\"metadata exists\"},{\"id\":4,\"message\":\"participant found by metadata\"},{\"id\":16,\"message\":\"person found\"}]",
   "[{\"id\":13,\"message\":\"invitee created\"},{\"id\":2,\"event\":\"searching platform\",\"reason\":\"metadata does not exist\"},{\"id\":6,\"message\":\"participant found by search\"},{\"id\":16,\"message\":\"person found\"}]",
   "[{\"id\":13,\"message\":\"invitee created\"},{\"id\":1,\"event\":\"accessing platform\",\"reason\":\"metadata exists\"},{\"id\":4,\"message\":\"participant found by metadata\"},{\"id\":16,\"message\":\"person found\"}]",
